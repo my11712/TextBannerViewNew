@@ -42,7 +42,7 @@
 Gradle 
 ```groovy
 dependencies{
-    compile 'com.superluo:textbannerview:1.0.5'  //最新版本
+  compile 'com.hong.common:textbannerlibrary:1.0.0'//最新版本
 }
 ```
 或者引用本地lib
